@@ -1,0 +1,12 @@
+[package]
+name = "pi-time"
+version = "0.1.0"
+edition = "2021"
+readme = "./README.md"
+authors = [ "Ewan Breakey (giraugh)" ]
+description = "Find out when its pi time"
+
+[dependencies]
+chrono = "0.4"
+clap = { version = "4.0.9", features = ["derive"] }
+humantime = "2.1"
