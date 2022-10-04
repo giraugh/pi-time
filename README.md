@@ -1,5 +1,5 @@
 # 🥧 Pi-Time
-Count down until pi time.
+We all know pi time is the best time, but when is it? Use this cli-tool to quickly find out and never miss out on pi time again.
 
 ## Usage
 Running the `pi-time` binary will output either "Its pi time" or the remaining time until pi time. Run with `-h` to view other options.
