@@ -9,6 +9,13 @@ Running the `pi-time` binary will output either "Its pi time" or the remaining t
 10h 28m 42s until pi time
 ```
 
+## Installation
+You can install `pi-time` on mac using homebrew.
+```
+brew tap giraugh/giraugh
+brew install pi-time
+```
+
 ## Building
 Building pi-time requires a copy of the rust compiler. You can install it using the rust toolchain available [here](https://www.rust-lang.org/tools/install).
 
